@@ -9,9 +9,10 @@ Project has been called "Fastafarism" then it is better to compile it with :
 Configuration is made using option in the command line. There is no specific order
 -h option will print the following help message of how options work:
 
-Usage : ./a.out [OPTION (+ arg)] ...
-	-a       	Sequencing and assembly from the first sequence in FASTA file.
-	-f FILE  	Specify a file to get sequences from (needed).
+Usage : 
+* ./a.out [OPTION (+ arg)] ...
+* -a       	Sequencing and assembly from the first sequence in FASTA file.
+* -f FILE  	Specify a file to get sequences from (needed).
 	-h       	Display this message.
 	-n NUMBER	Number of occurences wanted when research performed.
 	-q QUERY 	Specify the querry to match for research (needed if -s).
