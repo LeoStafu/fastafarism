@@ -28,7 +28,9 @@ Usage :
 
 
 Results of research in input file (-s 1|2|3) and translation of input file are printed in specific new fasta files (with explicit names)
+
 Dictionary research (whole sequence or prefixes number) print results directly in terminal
 
 The archive contains two fasta files for test.
+
 S_pombe.fasta is far much bigger. For small tests, use testShortSeq.fasta
