@@ -1,9 +1,9 @@
-UE Programmation II - L3BI 2016/2017 - Sandrine Fartek and Léonard Dubois
+# UE Programmation II - L3BI 2016/2017 - Sandrine Fartek and Léonard Dubois
 
 
 Project has been called "Fastafarism" then it is better to compile it with :
 
-	gcc *.c -Wall -o fastafarism
+`gcc *.c -Wall -o fastafarism`
 
 
 Configuration is made using option in the command line. There is no specific order
